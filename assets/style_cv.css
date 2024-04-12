@@ -1,0 +1,27 @@
+
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+} 
+
+.linkedin_cv {
+    display: flex;
+    font-size: 30px;
+    background-color:#002642ff;
+    padding-top: 100px;
+    margin-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color: #fff;
+}
+
+.linkedin_cv a {
+    color: #e59500ff;
+}
+
+
